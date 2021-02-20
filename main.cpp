@@ -12,3 +12,6 @@ int main(int argc, char *argv[])
     //代码会阻塞在这一行,让窗口不会一闪而过,和system("pause")使控制台不会一闪而过一样
     return a.exec();
 }
+
+测试
+
